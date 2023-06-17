@@ -26,6 +26,9 @@
     <!-- Disable combined network icons -->
     <bool name="flag_combined_status_bar_signal_icons">false</bool>
 
+    <!-- Color of the FOD view -->
+    <color name="config_udfpsColor">#00ffffff</color>
+
     <!-- HBM type of UDFPS overlay.
             0 - GLOBAL HBM
             1 - LOCAL HBM
@@ -36,6 +39,9 @@
          Leave 1 if you have mA, put 1000 if you have µA-->
     <integer name="config_battCurrentDivider" translatable="false">1</integer>
     <integer name="config_currentInfoDivider" translatable="false">1</integer>
+
+    <!-- Allow devices override audio panel location to the left side -->
+    <bool name="config_audioPanelOnLeftSide">true</bool>
 
     <!-- Should we listen for fingerprints when the screen is off?  Devices
          with a rear-mounted sensor want this, but certain devices have

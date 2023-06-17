@@ -43,6 +43,7 @@ ro.surface_flinger.wcg_composition_dataspace=143261696
 ro.surface_flinger.has_wide_color_display=false
 ro.vendor.display.sensortype=2
 ro.vendor.display.svi=1
+vendor.display.svi.config_path=/vendor/etc/svi_config_206B1.xml
 
 # Do not write xml files in binary format
 persist.sys.binary_xml=false
