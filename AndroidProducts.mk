@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_RMX2170.mk
+    $(LOCAL_DIR)/evolution_RMX2170.mk
     
 COMMON_LUNCH_CHOICES := \
-    aosp_RMX2170-user \
-    aosp_RMX2170-userdebug \
-    aosp_RMX2170-eng    
+    evolution_RMX2170-user \
+    evolution_RMX2170-userdebug \
+    evolution_RMX2170-eng    
