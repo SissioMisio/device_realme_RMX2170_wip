@@ -40,7 +40,4 @@
     <!-- Radius of the software rounded corners at the bottom of the display in its natural
         orientation. If zero, the value of rounded_corner_radius is used. -->
     <dimen name="rounded_corner_radius_bottom">93px</dimen>
-
-    <!-- Udfps animation -->
-    <dimen name="udfps_animation_offset">40dp</dimen>
 </resources>
